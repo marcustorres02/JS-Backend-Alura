@@ -13,4 +13,4 @@ const media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length;
 
 console.log(media);
 
-// A propriedade length retorna o tamanho de um Arrayy
+// A propriedade length retorna o tamanho de um Array
