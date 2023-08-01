@@ -71,3 +71,4 @@ if (input === null) {
 }
 console.log(input); // null
 console.log(input2); // undefined
+

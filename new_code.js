@@ -11,3 +11,4 @@ meuObj[obj]               = "Objeto";
 meuObj[""]                = "Mesmo uma string vazia";
 
 console.log(meuObj);
+
