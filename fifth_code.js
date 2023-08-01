@@ -99,3 +99,9 @@ const somaNumerosPequenos = (num1, num2) => {
         return num1 + num2;
     }
 };
+
+const num = 11;
+
+if (num > 10 && num < 20) {
+ console.log('número válido');
+}
