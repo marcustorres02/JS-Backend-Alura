@@ -1,0 +1,13 @@
+{
+    "info" : "Formato JSON -> funções e comentários não são permitidos",
+    "nome" : "Joao",
+    "email" : "joao@firma.com",
+    "telefone" : ["115555550", "114444440"],
+    "endereco" :
+    {
+        "rua" : "R. Joseph Climber",
+        "numero" : 1337,
+        "apartamento" : true,
+        "complemento" : "ap 934"
+    }
+}
