@@ -1,0 +1,16 @@
+{
+  "name": "conversation-code",
+  "version": "1.0.0",
+  "description": "Projeto final do Conversation code",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
